@@ -12,4 +12,5 @@ with sns.axes_style('whitegrid'):
   # Inserindo as informações do título, e legenda dos eixos (x,y):
   grafico.set(title='Cotação do Preço da Gasolina', xlabel='Dias', ylabel='Preço (R$)')
   grafico.get_legend()
+  #Salvando o gráfico em um arquivo de imagem:
   grafico.get_figure().savefig('gasolina.png')

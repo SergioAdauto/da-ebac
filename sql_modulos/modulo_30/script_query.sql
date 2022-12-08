@@ -1,3 +1,4 @@
+--criando a tabela transacoes com base no arquivo csv presente no bucket (aws s3):
 CREATE EXTERNAL TABLE transacoes(
 id_cliente BIGINT,
 id_transacao BIGINT,

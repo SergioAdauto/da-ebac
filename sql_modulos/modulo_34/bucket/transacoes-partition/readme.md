@@ -1,0 +1,1 @@
+<p>A ideia apresentada nesse bucket, é o particionamento (ou segmentação) de grandes tabelas em pequenas tabelas (ou tabelas com  elementos do mesmo tipo) visando a redução de custo em armazenamento.</p>
